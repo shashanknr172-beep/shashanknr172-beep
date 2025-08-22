@@ -1,5 +1,6 @@
-Hi 👋 ,
-I'm shashank nr
+Hi 👋 ,I'm shashank nr
+<img width="65" height="23" alt="image" src="https://github.com/user-attachments/assets/a2207c9e-809d-4b85-9991-5aad699e4c1f" />
+
 
 a passionate developer from india 🇮🇳
 
