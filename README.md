@@ -1,8 +1,6 @@
-Hi 👋 ,I'm shashank nr
-<img width="65" height="23" alt="image" src="https://github.com/user-attachments/assets/a2207c9e-809d-4b85-9991-5aad699e4c1f" />
+                                              Hi 👋,I'm Shashank nr
 
-
-a passionate developer from india 🇮🇳
+                                       A passionate developer from india 🇮🇳
 
 [![](https://visitcount.itsvg.in/api?id=shashanknr172-beep&icon=0&color=0)](https://visitcount.itsvg.in)
 
